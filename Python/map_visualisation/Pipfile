@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 jupyter = "*"
 ipinfo = "*"
+matplotlib = "*"
+basemap = "*"
+ffmpeg = "*"
 
 [dev-packages]
 
